@@ -5,5 +5,5 @@
   #vars_files:
   #- vars/docker/docker-general.yml
   roles:
-    - docker/plex
+    - docker/torrent/plex
 ...
