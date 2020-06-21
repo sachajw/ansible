@@ -1,5 +1,5 @@
 ---
-- hosts: server3
+- hosts: pi01
   become: yes
   become_method: sudo
   vars_files:
